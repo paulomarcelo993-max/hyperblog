@@ -27,6 +27,12 @@ body
     padding: 0.5em;
 }
 
+#cabecera #logo
+{
+    width: 30px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline
 {
     padding-left: 20px;
