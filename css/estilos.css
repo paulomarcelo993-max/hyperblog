@@ -43,3 +43,10 @@ body
 {
     font-size: 20px;
 }
+.footer {
+    min-height: 70px;       /* Define la altura que deseas para el footer */
+    display: flex;          /* Activa el modo Flexbox */
+    justify-content: center;/* Centra el texto horizontalmente */
+    align-items: center;    /* Centra el texto verticalmente de forma perfecta */
+    background-color: aquamarine;
+}
